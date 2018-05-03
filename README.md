@@ -3,7 +3,7 @@
 Este é um simples teste usando a API star wars  com  angular js
 em sua maneira mais simples de se aplicar.
 
-Foi usado um template básico com a CDN oficial do angular para
+Foi usado uma estrutura minificada com a CDN oficial do angular para
 este exemplo básico de aplicaçao rápida sem muitas exigências.
 
 Para visualizar o teste deixo aqui disponivel o link para visualização 
