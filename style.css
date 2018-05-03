@@ -1,0 +1,52 @@
+#index {
+  background-image: url('https://media.contentapi.ea.com/content/dam/eacom/en-us/migrated-images/2016/11/home-page-gohtrailer-desktop.jpg.adapt.crop16x9.1920w.jpg');
+  background-repeat: initial;
+  background-size: fixed;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.title-index,
+.subtitle-index {
+  margin-top: 2rem;
+}
+
+input {
+  width: 350px;
+}
+ul.none {
+  list-style-type: none;
+}
+
+#load {
+  background-image: url('https://taxischiphol-airport.com/3581454.jpg');
+  background-repeat: no-repeat;
+  background-size: fixed;
+}
+
+pre {
+  font-size: 1em;
+}
+.text-load {
+  margin-top: 15rem;
+}
+#movies {
+  background-image: url('https://i.pinimg.com/originals/c6/e1/a3/c6e1a306366955445430a0066f88fcba.jpg');
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+.card-title {
+  margin-top: 2rem;
+}
+
+.card {
+  margin: 1rem;
+}
+
+.card:hover {
+  background: #971700;
+  color: #fff;
+  cursor: pointer;
+  /* transform: scale(1.1); */
+  box-shadow: 0px 30px 90px 0.1px rgb(255, 255, 255);
+}
